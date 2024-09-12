@@ -42,9 +42,9 @@ Having been a Software Development Lecturer for over 10 years, it is time for me
   <a href="https://github.com/mmlotshwa/mern-login">JWT Session SignIn/SignUp with username validation</a></h4>
 <h4 align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="30" alt="Java" /></a>
-  <a href="https://github.com/mmlotshwa/studentsystem-spring-boot">SpringBoot Backend for a Student Marks System</a>
+  <a href="https://github.com/mmlotshwa/studentsystem-spring-boot">SpringBoot Back-End App for a Student Marks System</a>
 </h4>
 <h4 align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a>
-  <a href="https://github.com/mmlotshwa/studentsystem-react-springboot">React Front-End for the SpringBoot Back-End App</a></h4>
+  <a href="https://github.com/mmlotshwa/studentsystem-react-springboot">React Front-End App for the SpringBoot Back-End App</a></h4>
   
